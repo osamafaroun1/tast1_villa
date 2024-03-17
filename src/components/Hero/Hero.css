@@ -95,6 +95,27 @@
     padding: 5px;
 }
 
+.OF-heroSlider {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.OFS {
+    background-color: #fff;
+    color: #1e1e1e;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 6px 15px;
+    display: inline-block;
+    
+}
+
+.OFS em {
+    font-style: normal;
+    color: #f35525;
+}
 @media screen and (max-width:400px) {
     .splide__arrow {
         height: 1.8em !important; 

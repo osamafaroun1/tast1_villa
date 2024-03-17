@@ -162,7 +162,7 @@ const Home = () => {
               OFclass={sectionHead_information[4].OFclass}
             />
           </div>
-          <div className='flex flex-wrap justify-center gap-20 3xl:mt-[300px] mt-[150px]'>
+          <div className='flex flex-wrap justify-center gap-20 3xl:mt-[300px] mt-[80px]'>
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22375.60268068973!2d36.32973554290677!3d33.52340127435489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518e6e892dfeb23%3A0xd533119047981584!2z2LPYp9it2Kkg2KfZhNi52KjYp9iz2YrZitmG!5e0!3m2!1sar!2snl!4v1698159468035!5m2!1sar!2snl"
               allowFullScreen=""
@@ -235,7 +235,7 @@ const Home = () => {
           </div>
         </section>
       </div>
-      <div className='xl:mt-[600px] lg:mt-[900px]  mt-[1700px]'>
+      <div className='xl:mt-[600px] lg:mt-[900px]  mt-[1500px]'>
         <Footer />
       </div>
     </>
