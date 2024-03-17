@@ -87,7 +87,7 @@ const Navbar = () => {
       </nav>
       {
         collapse &&
-        <div className={`${scroll} top-[60px] flex flex-col items-center py-5 gap-10`}>
+        <div className={`${scroll} top-[60px] flex  flex-col items-center py-5 gap-10`}>
           <NavLink to="/tast1_villa/"
             className={({ isActive }) =>
               isActive ? "active" : "hover:text-my-orange"
